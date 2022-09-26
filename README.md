@@ -1,4 +1,4 @@
-# project5-shopping-bag-finished
+# Shopping Bag
 
 ## Project setup
 ```
